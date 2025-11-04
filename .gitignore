@@ -1,0 +1,56 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# SwiftPM
+.build/
+Packages/
+Package.resolved
+
+# Logs
+*.log
+
+# Cache
+*.DS_Store
+
+# Env files
+.env
+*.env.*
+
+# Supabase
+.supabase/
+supabase/config.toml
+
+# Personal settings
+*.xcconfig
+
+# Swift Package Index cache
+.swiftpm/
+
+# Preview build data
+*.preview-thumbnails
+*.preview-device-state
+
+# Bundle artifacts
+*.ipa
+*.app
+*.dSYM
+
+# Firebase/GoogleService
+GoogleService-Info.plist
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Misc
+*.orig
+*.lock
