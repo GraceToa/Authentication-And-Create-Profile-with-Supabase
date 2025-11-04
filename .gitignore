@@ -54,3 +54,4 @@ fastlane/test_output
 # Misc
 *.orig
 *.lock
+Auth_With_Supabase/Application/Auth-With-Supabase-Info.plist
