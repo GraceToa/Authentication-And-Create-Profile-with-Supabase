@@ -11,7 +11,7 @@ Diseñada con **MVVM**, **principios SOLID** y **inyección de dependencias** pa
 
 ## 🎬 Demostraciones
 
-<video src="assets/video/authone.mp4" width="600" controls></video>
+<video src="https://github.com/GraceToa/Authentication-And-Create-Profile-with-Supabase/blob/main/assets/video/authone.mp4" width="600" controls></video>
 
 <video src="assets/video/authTwo.mp4" width="600" controls></video>
 
