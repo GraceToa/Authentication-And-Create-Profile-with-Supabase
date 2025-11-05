@@ -8,6 +8,13 @@
 Aplicación iOS modular construida con **SwiftUI**, que implementa **autenticación y gestión de perfiles** utilizando [Supabase](https://supabase.com).  
 Diseñada con **MVVM**, **principios SOLID** y **inyección de dependencias** para lograr un código limpio, escalable y completamente testeable.
 
+
+## 🎬 Demostraciones
+
+<video src="assets/video/authone.mp4" width="600" controls></video>
+
+<video src="assets/video/authTwo.mp4" width="600" controls></video>
+
 ---
 
 ## 🏗️ Arquitectura
