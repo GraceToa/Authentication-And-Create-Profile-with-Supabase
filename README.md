@@ -46,7 +46,7 @@ El proyecto sigue una arquitectura **Clean Architecture + MVVM**, con capas bien
 ## 🧠 Componentes principales
 
 ### 🔹 Punto de entrada
-- **`YourApp`** – Configura Supabase, inyecta dependencias y lanza `RootView`.
+- **`Auth_With_SupabaseApp`** – Configura Supabase, inyecta dependencias y lanza `RootView`.
 
 ### 🔹 Inyección de dependencias
 - **`ViewModelFactory`** – Crea e inyecta todos los UseCases y ViewModels.  
